@@ -51,7 +51,8 @@
     "bn.js": ">= 0.14",
     "buffer": ">= 3.0",
     "jksreader": "^1.0.0",
-    "js-lzma": "0.x"
+    "js-lzma": "0.x",
+    "js-sha1": "^0.7.0"
   },
   "eslintConfig": {
     "extends": [
