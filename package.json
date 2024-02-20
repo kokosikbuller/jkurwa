@@ -47,7 +47,7 @@
     "prettier": "^1.17.0"
   },
   "dependencies": {
-    "asn1.js": "muromec/asn1.js",
+    "asn1.js": "kokosikbuller/asn1.js",
     "bn.js": ">= 0.14",
     "buffer": ">= 3.0",
     "js-lzma": "0.x",
